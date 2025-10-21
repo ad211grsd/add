@@ -1,0 +1,16 @@
+{
+  "name": "white-list-ticket-bot",
+  "version": "1.0.0",
+  "description": "نظام تذاكر Discord متكامل - White List Support System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "register": "node register-commands.js"
+  },
+  "keywords": ["discord", "bot", "ticket", "support"],
+  "author": "White List",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.23.2"
+  }
+}
